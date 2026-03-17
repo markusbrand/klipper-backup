@@ -1,0 +1,3 @@
+# Secrets and private configs
+moonraker.secrets
+.env
