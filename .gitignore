@@ -6,6 +6,7 @@ telegram.conf
 moonraker.secrets
 .env
 *.swp
+.bash_history-17228.tmp
 .bash_history-82636.tmp
 printer-[0-9]*_[0-9]*.cfg
 *.bak
