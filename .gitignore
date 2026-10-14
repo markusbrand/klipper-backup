@@ -1,13 +1,6 @@
-.env
-secrets.confconfig/telegram.conf
-**/telegram.conf
-**/moonraker.secrets
-telegram.conf
-moonraker.secrets
-.env
+
 *.swp
-.bash_history-17228.tmp
-.bash_history-82636.tmp
+*.tmp
 printer-[0-9]*_[0-9]*.cfg
 *.bak
 *.bkp
