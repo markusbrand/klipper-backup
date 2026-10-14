@@ -7,3 +7,5 @@ printer-[0-9]*_[0-9]*.cfg
 *.csv
 *.zip
 ShakeTune_results
+printer_data/config/telegram.conf
+printer_data/config/moonraker-obico.cfg
